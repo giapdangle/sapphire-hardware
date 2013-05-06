@@ -7283,6 +7283,8 @@ Source: www.kingbright.com</description>
 <package name="XTAL_3.2X1.5">
 <smd name="P$1" x="-1.2" y="0" dx="1" dy="1.8" layer="1"/>
 <smd name="P$2" x="1.3" y="0" dx="1" dy="1.8" layer="1"/>
+<text x="-1.27" y="1.27" size="1.016" layer="25" font="vector" ratio="20">&gt;NAME</text>
+<text x="-1.27" y="-2.54" size="1.016" layer="27" font="vector" ratio="20">&gt;VALUE</text>
 </package>
 <package name="XTAL_3.2X2.5">
 <smd name="P$1" x="-1.1" y="-0.8" dx="1.4" dy="1.15" layer="1"/>
