@@ -25,4 +25,4 @@ Line item,Digikey PN,Description,Qty per unit,Ref Des,Notes
 24,H11671CT-ND,"Conn, Mini USB, SMT",1,J2," H11671TR-ND for 1500+, tape and reel"
 25,S7014-ND,"Conn, Female header, 1x16, PTH",2,"J3, J4",
 26,450-1757-1-ND,"Switch, tactile, SMT, SPST-NO",1,S1,"450-1757-2-ND for 1200+, tape and reel"
-27,311-1.0MGRCT-ND,"Res, 100K, 0603",1,R1,
+27,311-1.0MGRCT-ND,"Res, 1M, 0603",1,R1,
